@@ -23,6 +23,11 @@ the OS (macOS, Linux x86/x86_64/ARMv7+, Windows x86_64).
 
 ... and from custom URLs.
 
+NOTE: in order to use the Jabba index file from this repo, you need to set the following ENV var:
+```bash
+export JABBA_INDEX=https://github.com/lreimer/jabba/raw/master/index.json
+```
+
 ## Installation
 
 #### macOS / Linux
